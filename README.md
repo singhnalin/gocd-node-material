@@ -1,6 +1,6 @@
 # gocd-node-material
 
-This is an example project for the GoCD tutorial: [Janik von Rotz - Setup GoCD environment using docker](https://janikvonrotz.ch/2018/11/06/2018-11-06-setup-gocd-environment-using-docker/)
+This is an example project used for the GoCD tutorial: [Janik von Rotz - Setup GoCD environment using docker](https://janikvonrotz.ch/2018/11/06/2018-11-06-setup-gocd-environment-using-docker/)
 
 It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
